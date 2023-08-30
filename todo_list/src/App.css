@@ -5,7 +5,7 @@ h1 {
   }
 
   body {
-    background: grey
+    background: lightskyblue
   }
   #todo-list {
     width: 500px;
@@ -33,7 +33,7 @@ h1 {
   
   button {
     font-size: 16px;
-    background-color: rgb(62, 138, 151);
+    background-color: rgb(211, 128, 207);
     color: #fff;
     border-radius: 8px;
     border: none;
